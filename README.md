@@ -14,10 +14,9 @@
 <div style="background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3); font-family: 'Poppins', sans-serif;">
 <ul style="list-style-type: none; padding-left: 0;">
     <li style="margin-bottom: 10px;">🎓 B.Tech in <strong style="color: #00bcd4;">AI & Data Science</strong> at IIIT Raichur (CGPA: 7.94)</li>
-    <li style="margin-bottom: 10px;">🌱 I'm currently learning <strong style="color: #00bcd4;">Machine Learning & AI/ML</strong></li>
     <li style="margin-bottom: 10px;">🖊️ A Real-Time Collaborative Whiteboard — <strong style="color: #00bcd4;">Multi-User Whiteboard</strong></li>
     <li style="margin-bottom: 10px;">📱 A Real-Time AI-Enhanced Social Platform — <strong style="color: #00bcd4;">SocialMedia</strong></li>
-    <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://varuna-kumari.vercel.app" style="color: #00bcd4; text-decoration: none; font-weight: bold;">Portfolio</a></li>
+    <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://varuna-kumari.netlify.app/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">Portfolio</a></li>
     <li style="margin-bottom: 10px;">📫 Reach me at: <strong style="color: #00bcd4;">varunakumari2102@gmail.com</strong></li>
     <li style="margin-bottom: 10px;">🏆 <span style="color: gold;">Amazon FFE Scholar 2025</span> | <span style="color: lightgreen;">Infosys Pragati Cohort 6</span></li>
     <li style="margin-bottom: 10px;">🏆 <span style="color: lightgreen;">Expert💙: Codeforces</span> | <span style="color: gold;">3⭐ CodeChef</span> | <span style="color: orange;">350+ LeetCode Problems</span></li>
@@ -30,7 +29,7 @@
     <a href="https://www.linkedin.com/in/varuna-kumari" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://varuna-kumari.vercel.app" target="_blank">
+    <a href="https://varuna-kumari.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:varunakumari2102@gmail.com">
@@ -39,15 +38,7 @@
     <a href="https://github.com/varunaKumari" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://codeforces.com/profile/kaizopearl" target="_blank">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/varuna_kumari" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </a>
-    <a href="https://www.codechef.com/users/VarunaKumari" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-    </a>
+    
 </div>
 
 ## My Skill Set
