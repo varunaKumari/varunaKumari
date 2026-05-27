@@ -38,7 +38,6 @@
     <a href="https://github.com/varunaKumari" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    
 </div>
 
 ## My Skill Set
@@ -48,24 +47,38 @@
         <tr>
             <td valign="top" width="100%" colspan="3">
                 <h3 style="color: #00bcd4;">Languages</h3>
-                <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,html,css" />
+                <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" />
             </td>
         </tr>
         <tr>
             <td valign="top" width="33%">
                 <h3 style="color: #00bcd4;">Frontend</h3>
-                <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+                <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
             </td>
             <td valign="top" width="33%">
                 <h3 style="color: #00bcd4;">Backend & APIs</h3>
-                <img src="https://skillicons.dev/icons?i=nodejs,graphql,express" />
+                <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
                 <br/>
                 <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
                 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
             </td>
             <td valign="top" width="33%">
-                <h3 style="color: #00bcd4;">Tools & Workflow</h3>
-                <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman" />
+                <h3 style="color: #00bcd4;">Databases</h3>
+                <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase" />
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" width="50%" colspan="1">
+                <h3 style="color: #00bcd4;">Cloud & Tools</h3>
+                <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,postman" />
+            </td>
+            <td valign="top" width="50%" colspan="2">
+                <h3 style="color: #00bcd4;">Core Concepts</h3>
+                <img src="https://img.shields.io/badge/DSA-00bcd4?style=flat-square&logoColor=white" />
+                <img src="https://img.shields.io/badge/OOP-00bcd4?style=flat-square&logoColor=white" />
+                <img src="https://img.shields.io/badge/DBMS-00bcd4?style=flat-square&logoColor=white" />
+                <img src="https://img.shields.io/badge/Operating_Systems-00bcd4?style=flat-square&logoColor=white" />
+                <img src="https://img.shields.io/badge/System_Design-00bcd4?style=flat-square&logoColor=white" />
             </td>
         </tr>
     </table>
