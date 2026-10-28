@@ -16,7 +16,7 @@
     <li style="margin-bottom: 10px;">🎓 B.Tech in <strong style="color: #00bcd4;">AI & Data Science</strong> at IIIT Raichur (CGPA: 7.88)</li>
     <li style="margin-bottom: 10px;">🖊️ A Real-Time Collaborative Whiteboard — <strong style="color: #00bcd4;">Multi-User Whiteboard</strong></li>
     <li style="margin-bottom: 10px;">📱 A Real-Time AI-Enhanced Social Platform — <strong style="color: #00bcd4;">SocialMedia</strong></li>
-    <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://3-d-portfolio-seven-iota.vercel.app/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">
+    <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://3-d-portfolio-delta-nine.vercel.app/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">
     Portfolio
 </a></li>
     <li style="margin-bottom: 10px;">📫 Reach me at: <strong style="color: #00bcd4;">varunakumari2102@gmail.com</strong></li>
@@ -31,7 +31,7 @@
     <a href="https://www.linkedin.com/in/varuna-kumari" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://varuna-kumari.netlify.app/" target="_blank">
+    <a href="https://3-d-portfolio-delta-nine.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:varunakumari2102@gmail.com">
