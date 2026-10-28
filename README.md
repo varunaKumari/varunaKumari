@@ -13,7 +13,7 @@
 
 <div style="background: rgba(0, 188, 212, 0.1); border-radius: 15px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 188, 212, 0.3); font-family: 'Poppins', sans-serif;">
 <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;">🎓 B.Tech in <strong style="color: #00bcd4;">AI & Data Science</strong> at IIIT Raichur (CGPA: 7.94)</li>
+    <li style="margin-bottom: 10px;">🎓 B.Tech in <strong style="color: #00bcd4;">AI & Data Science</strong> at IIIT Raichur (CGPA: 7.88)</li>
     <li style="margin-bottom: 10px;">🖊️ A Real-Time Collaborative Whiteboard — <strong style="color: #00bcd4;">Multi-User Whiteboard</strong></li>
     <li style="margin-bottom: 10px;">📱 A Real-Time AI-Enhanced Social Platform — <strong style="color: #00bcd4;">SocialMedia</strong></li>
     <li style="margin-bottom: 10px;">👨‍💻 All of my projects are available at <a href="https://3-d-portfolio-seven-iota.vercel.app/" style="color: #00bcd4; text-decoration: none; font-weight: bold;">
